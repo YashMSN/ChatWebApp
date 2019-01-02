@@ -1,4 +1,0 @@
-This is my first GUI project
-
-
-THIS IS ALSO MY GIT PROJECT
